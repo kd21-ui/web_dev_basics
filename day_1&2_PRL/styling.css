@@ -26,3 +26,7 @@ ul {
     margin: 20px;
     border-radius: 8px;
 }
+.container {
+    width: 800px;
+    margin: auto;
+}
