@@ -7,6 +7,7 @@ body {
 h2 {
     margin-bottom: 10px;
 }
+
 .main-heading {
     text-align: center;
     color: #222;
@@ -23,10 +24,18 @@ ul {
 .card {
     background-color: #ffffff;
     padding: 20px;
-    margin: 20px;
     border-radius: 8px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
 }
+
 .container {
     width: 800px;
     margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
