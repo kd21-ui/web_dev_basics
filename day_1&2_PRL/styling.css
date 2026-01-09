@@ -39,3 +39,9 @@ ul {
     flex-direction: column;
     gap: 20px;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+
+}
